@@ -4,3 +4,4 @@ who invented java
 
 what is java? python
 java introduction
+java methods
